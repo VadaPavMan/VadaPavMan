@@ -1,3 +1,19 @@
+<h1 align="center">Hi 👋, I'm Harsh Rajbhar</h1>
+<h3 align="center">A Passionate Aosp/Java/C/C++ And Game Developer From India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vadapavman&label=Profile%20views&color=0e75b6&style=flat" alt="vadapavman" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vadapavman" alt="vadapavman" /></a> </p>
+
+- 🔭 I’m currently working on **Google Search Bar Pong Game**
+
+- 🌱 I’m currently learning **C++/C# And Unreal Engine**
+
+- 💬 Ask me about **C, C++ And Java**
+
+- 📫 How to reach me **harshrajbhar071@gmail.com**
+
+- ⚡ Fun fact **I Think I'm Good Lmao**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3uBQ3ncV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harshrajbhar_56/profilecard/?igsh=cHp1NHhiY3cyOXp3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-rajbhar-2160a6336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ManVadapav?t=kSuQOtL8CLQl51AIkGJWGg&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@harshrajbhar?si=F6V6zAbuvYZ9lRZz) 
@@ -11,9 +27,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VadaPavMan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VadaPavMan&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
