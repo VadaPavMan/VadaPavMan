@@ -3,15 +3,15 @@
 
 [![](https://visitcount.itsvg.in/api?id=VadaPavMan&icon=5&color=12)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Ad Free Document Converter Project**
+- 🔭 I’m currently working on **Space Shooter Game**
 
-- 🌱 I’m currently learning **C++/C# And Unreal Engine**
+- 🌱 I’m currently learning **Python And Backend Frameworks**
 
-- 💬 Ask me about **C, C++ And Java**
+- 💬 Ask me about **C, C++, Python And Javascript**
 
 - 📫 How to reach me **harshrajbhar071@gmail.com**
 
-- ⚡ Fun fact **I Think I'm Good Lmao**
+- ⚡ Fun fact **Nothing**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3uBQ3ncV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/harshrajbhar_56/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-rajbhar-2160a6336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ManVadapav?t=kSuQOtL8CLQl51AIkGJWGg&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@harshrajbhar) [![Whatsapp Group](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://chat.whatsapp.com/I7ARuNpyPAt6R1uTARIazk)
