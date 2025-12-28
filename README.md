@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Rajbhar</h1>
-<h3 align="center">A Passionate Aosp/Java/C/C++ And Game Developer From India</h3>
+<h3 align="center">A Passionate Aosp/Python/C/C++ And Game Developer From India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=VadaPavMan&icon=5&color=12)](https://visitcount.itsvg.in)
 
