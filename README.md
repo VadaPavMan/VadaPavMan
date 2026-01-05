@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=VadaPavMan&icon=5&color=12)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Space Shooter Game**
+- 🔭 I’m currently working on **Telegram Bot Based Project**
 
 - 🌱 I’m currently learning **Python And Backend Frameworks**
 
